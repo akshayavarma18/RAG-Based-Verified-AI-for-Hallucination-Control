@@ -74,7 +74,7 @@ flowchart TD
 <h2>⚙️ Setup</h2>
 
 ```bash
-git clone https://github.com/srikarikurukunda/RAG-Based-Verified-AI-for-Hallucination-Control.git
+git clone https://github.com/akshayavarma18/RAG-Based-Verified-AI-for-Hallucination-Control.git
 cd RAG-Based-Verified-AI-for-Hallucination-Control
 
 python -m venv venv
